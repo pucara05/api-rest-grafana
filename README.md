@@ -1,4 +1,4 @@
-# My Sequelize Project
+# api-rest-grafana
 
 ## Descripción
 Este proyecto es una API RESTful creada con Node.js, Sequelize, y MySQL/PostgreSQL. Proporciona una serie de endpoints para gestionar usuarios, integra pruebas de rendimiento con K6 y monitoreo con Grafana e InfluxDB.
@@ -7,7 +7,7 @@ Este proyecto es una API RESTful creada con Node.js, Sequelize, y MySQL/PostgreS
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/pucara05/my-sequelize-project.git
+   git clone https://github.com/pucara05/api-rest-grafana.git
 
 2. Instala dependencias
     npm install
